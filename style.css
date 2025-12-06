@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+
+h2{
+    text-align: center;
+    color: black;
+    font-size: 35px;
+}
+body{
+    background-color: rgb(250, 249, 249);
+}
+:root {
+ --preto: rgb(0,0,0);
+}
+
+h1{
+    background: repeating-linear-gradient(90deg,var(--preto));
+    padding: 39px;
+}
