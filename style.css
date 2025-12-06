@@ -19,3 +19,18 @@ h1{
     background: repeating-linear-gradient(90deg,var(--preto));
     padding: 39px;
 }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    border-radius: 10px;
+}
+
+div {
+    display:flex;
+    margin-left: 20px;
+    gap: 160px;
+}
