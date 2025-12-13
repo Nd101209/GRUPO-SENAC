@@ -28,9 +28,3 @@ h1{
 img{
     border-radius: 10px;
 }
-
-div {
-    display:flex;
-    margin-left: 20px;
-    gap: 160px;
-}
